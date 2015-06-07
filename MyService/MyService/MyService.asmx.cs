@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.Services;
- 
-[WebService (Namespace = "http://www.srilankasquash.com/MyService.asmx")] // tempuri.org is the default, you should change this
+
+[WebService(Namespace = "http://myservice-8.apphb.com/MyService.asmx")] // tempuri.org is the default, you should change this
 [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
 
 public class MyService : System.Web.Services.WebService
