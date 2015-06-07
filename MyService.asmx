@@ -1,1 +1,1 @@
-<%@ WebService Language="C#" Class="MyService"%>
+<%@ WebService Language="C#" CodeBehind="MyService.asmx.cs"  Class="MyService"%>
