@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="www.srilankasquash.com/MyService.asmx" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\iiii\\WebServer\\MyService\\MyService\\obj\\Debug\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\iiii\\WebServer\\MyService\\MyService\\obj\\Debug\\Package\\PackageTmp$" />
-  </parameter>
-</parameters>
