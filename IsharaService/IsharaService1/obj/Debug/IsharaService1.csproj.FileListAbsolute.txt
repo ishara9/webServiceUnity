@@ -1,5 +1,0 @@
-D:\iiii\WebServer\IsharaService\IsharaService1\bin\IsharaService1.dll.config
-D:\iiii\WebServer\IsharaService\IsharaService1\bin\IsharaService1.dll
-D:\iiii\WebServer\IsharaService\IsharaService1\bin\IsharaService1.pdb
-D:\iiii\WebServer\IsharaService\IsharaService1\obj\Debug\IsharaService1.dll
-D:\iiii\WebServer\IsharaService\IsharaService1\obj\Debug\IsharaService1.pdb
